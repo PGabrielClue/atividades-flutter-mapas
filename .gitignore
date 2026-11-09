@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+*.iml
+*.log
+
+# Arquivos locais do Android e iOS
+**/android/local.properties
+**/android/key.properties
+**/android/secrets.properties
+**/android/.gradle/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Caso o projeto anterior ainda tenha uma chave de Google Maps
+android/maps.properties
+ios/Flutter/Maps.xcconfig

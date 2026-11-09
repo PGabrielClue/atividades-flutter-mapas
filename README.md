@@ -42,7 +42,7 @@ Para abrir cada atividade no Chrome:
 flutter run -d chrome -t lib/main.dart
 flutter run -d chrome -t lib/atividade22.dart
 flutter run -d chrome -t lib/atividade23.dart
-flutter run -d chrome -t lib/atividade_extra.dart
+flutter run -d chrome -t lib/atividade_extra_nova_versao.dart
 ```
 
 Execute um comando por vez.
